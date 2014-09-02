@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="vrtic.Baza">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAgABJAAAAAABAAAABABEAAAEAAAQIAAQAQAgAgAgA=</HashCode>
+      <FileName>Baza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Dijete">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAQAAQAAAAQAAAAgAAAAEAAEBAAgAAAQ=</HashCode>
+      <FileName>Dijete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Evidencija">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAARACABAAgAAACAAAACACgCAAAAhAAAAEAAAAY=</HashCode>
+      <FileName>Evidencija.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Izdajracun">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAAAAACQAAACBAAgAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Izdajracun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.PocetnaForma">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIEIICAAAAAAAACAoEACCAIAAAAAEAJAUJJEAAE=</HashCode>
+      <FileName>PocetnaForma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.PodaciDjeteta">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sAACAEgMACAAABEEIADAAAACAAAACSAACAAAAACAAAA=</HashCode>
+      <FileName>PodaciDjeteta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.PodaciRacuna">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAABIAAAAAAAAAAAAQACAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>PodaciRacuna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.PodaciZaposlenika">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEQECKAAABBQBACAAAADAABASAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PodaciZaposlenika.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.PopisDjece">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQASABAAAAQACAAQACAAgEAAIAAAAAAAAAAAQ=</HashCode>
+      <FileName>PopisDjece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.PopisOsoblja">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAQACABAAAAAACAAAACAAgAAAAAAAAAAAiAAAQ=</HashCode>
+      <FileName>PopisOsoblja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.PregledIzvjestaja">
+    <Position X="2" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASACABAAAAAACAAAACBAACAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>PregledIzvjestaja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Prijava">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAJAACAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Prijava.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Program">
+    <Position X="10.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.PromjeniTarifu">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAEAAEAAAAAAAAg=</HashCode>
+      <FileName>PromjeniTarifu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Racun">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACBEAAAABACAAAACAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Racun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Zaposlenik">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACACAAAAAQAgAAAAAAgAAAAAAAABAAAAAAQ=</HashCode>
+      <FileName>Zaposlenik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Properties.Resources">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vrtic.Properties.Settings">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
